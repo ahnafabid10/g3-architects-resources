@@ -152,6 +152,32 @@ main > section{
   font-size: 1rem;
 }
 
+/* Features you will love & enjoy */
+
+.features-container{
+  gap: 55px;
+}
+.feature-section-title{
+  border-left: 5px solid #FF900E;
+  padding-left: 20px;
+  font-size: 2.8rem;
+  font-weight: bold;
+  margin-bottom: 24px;
+}
+.feature-section-description{
+  margin-bottom: 30px;
+}
+.feature-title{
+  font-size: 1.25rem;
+  font-weight: 600;
+}
+
+.features-card{
+  padding: 30px;
+  border-radius: 8px;
+  box-shadow: 0px 4px 30px 0 rgba(0, 0, 0, 0.06);
+  margin-bottom: 20px;
+}
 
 
 /* Mobile Device Responsive */
