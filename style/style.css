@@ -304,6 +304,7 @@ main > section{
   }
   .facts-container{
     grid-template-columns:1fr;
+    justify-items: center;
   }
   .facts-card{
     margin-top: 10px;
